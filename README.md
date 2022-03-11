@@ -42,8 +42,8 @@ user@example:~./crawlbot.sh google.com
 
  
 ## Special thanks to:
- * [Nicy Jose] (https://github.com/NicyJoseAJ)
- * [Sarath G] (https://github.com/secretguard)
+ * [Nicy Jose](https://github.com/NicyJoseAJ)
+ * [Sarath G](https://github.com/secretguard)
  
 ## Version
 **Current version is 1.0**
