@@ -10,7 +10,7 @@ CrawlBot is a simple shell script which can be used to crawl the 'robots.txt' of
 ## Installation
  
 ```console
-user@example:~git clone
+user@example:~git clone https://github.com/adhithyanmv/crawlbot.git
 user@example:~cd crawlbot
 user@example:~chmod +x *
 user@example:~./crawlbot.sh domain_name
