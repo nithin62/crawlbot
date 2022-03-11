@@ -12,7 +12,7 @@ CrawlBot is a simple shell script which can be used to crawl the 'robots.txt' of
 ## Screenshots
 
  
- 
+ ![](crawlbot.png)
  
 
  
