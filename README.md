@@ -5,9 +5,7 @@ CrawlBot is a simple shell script which can be used to crawl the 'robots.txt' of
 
  
  ![](crawlbot.png)
- 
-
- 
+  
 
 ## Installation
  
@@ -17,7 +15,6 @@ user@example:~cd crawlbot
 user@example:~chmod +x *
 user@example:~./crawlbot.sh domain_name
 ```
-
 
 ## Usage
 ```
