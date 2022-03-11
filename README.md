@@ -1,11 +1,3 @@
-
-░█████╗░██████╗░░█████╗░░██╗░░░░░░░██╗██╗░░░░░██████╗░░█████╗░████████╗
-██╔══██╗██╔══██╗██╔══██╗░██║░░██╗░░██║██║░░░░░██╔══██╗██╔══██╗╚══██╔══╝
-██║░░╚═╝██████╔╝███████║░╚██╗████╗██╔╝██║░░░░░██████╦╝██║░░██║░░░██║░░░
-██║░░██╗██╔══██╗██╔══██║░░████╔═████║░██║░░░░░██╔══██╗██║░░██║░░░██║░░░
-╚█████╔╝██║░░██║██║░░██║░░╚██╔╝░╚██╔╝░███████╗██████╦╝╚█████╔╝░░░██║░░░
-░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚══════╝╚═════╝░░╚════╝░░░░╚═╝░░░
-
 ## About CrawlBot
 CrawlBot is a simple shell script which can be used to crawl the 'robots.txt' of a given domain. If the process is successful, the result will be listed into 3 different text files `(allows.txt, disallows.txt, all.txt)` in the created domain directory. 
 
